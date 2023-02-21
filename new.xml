@@ -1,0 +1,29 @@
+<root>
+  <first_name>Viktor</first_name>
+  <last_name>Korochanskii</last_name>
+  <surname>Anatolievich</surname>
+  <Age>38</Age>
+  <Pets/>
+  <desired salary in $>
+    <Id>1</Id>
+    <speciality>QA engineer</speciality>
+    <rank>Junior</rank>
+    <salary>500</salary>
+  </desired salary in $>
+  <desired salary in $>
+    <Id>2</Id>
+    <speciality>QA engineer</speciality>
+    <rank>Middle</rank>
+    <salary>1200</salary>
+  </desired salary in $>
+  <desired salary in $>
+    <Id>3</Id>
+    <speciality>QA engineer</speciality>
+    <rank>senior</rank>
+    <salary>2000</salary>
+  </desired salary in $>
+  <desired salary in $>
+    <speak the langueges>en</speak the langueges>
+    <speak the langueges>ru</speak the langueges>
+  </desired salary in $>
+</root>
