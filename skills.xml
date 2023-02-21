@@ -1,0 +1,29 @@
+<root>
+  <skills to be acquired>1. Базовая теория (Что такое тестирование, багрепорты, документация, виды, методы, направления тестирования и т.п.) SDLC, STLC.</skills to be acquired>
+  <skills to be acquired>2. Что такое клиент-серверная архитектура.</skills to be acquired>
+  <skills to be acquired>3. HTTP Методы запросов на сервер.</skills to be acquired>
+  <skills to be acquired>4. Коды ответов HTTP сервера.</skills to be acquired>
+  <skills to be acquired>5. Структуры HTTP запросов и ответов.</skills to be acquired>
+  <skills to be acquired>6. Что такое JSON, XML. Их структура.</skills to be acquired>
+  <skills to be acquired>7. Тестирование API через Postman (JS, автотесты API).</skills to be acquired>
+  <skills to be acquired>8. Снятие и чтение логов c внешнего сервера.</skills to be acquired>
+  <skills to be acquired>9. Снифинг http web трафика через Charles и Fiddler.</skills to be acquired>
+  <skills to be acquired>10. Dev Tools веб браузеров (Google Chrome, FireFox).</skills to be acquired>
+  <skills to be acquired>11. VPN. (Как работает, зачем нужен, как использовать, варианты инструментов)</skills to be acquired>
+  <skills to be acquired>12. Мобильное тестирование.</skills to be acquired>
+  <skills to be acquired>13. Особенность iOS, Android, гайдлайны.</skills to be acquired>
+  <skills to be acquired>14. Сборка iOS приложений на XCode. (У кого нет Mac компьютера, просто посмотрят)</skills to be acquired>
+  <skills to be acquired>15. Сборка Android приложений на Android Studio.</skills to be acquired>
+  <skills to be acquired>16. ADB (управление андройд девайсами).</skills to be acquired>
+  <skills to be acquired>17. Настройка прокси и vpn на iOS и Android.</skills to be acquired>
+  <skills to be acquired>18. Перехват (сниффинг) мобильного трафика через Charles и Fiddler на iOS и Android.</skills to be acquired>
+  <skills to be acquired>19. Командная строка (terminal) Linux (копирование, создание, просмотр, перемещение файлов на серверах без графического интерфейса)</skills to be acquired>
+  <skills to be acquired>20. Основы bash скриптинг, автоматизация рутинных задач на сервере.</skills to be acquired>
+  <skills to be acquired>21. Доступ к удалённым серверам.</skills to be acquired>
+  <skills to be acquired>22. Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join).</skills to be acquired>
+  <skills to be acquired>23. База данных Postgres (установка, настройка и использование).</skills to be acquired>
+  <skills to be acquired>24. Нереляционная база данных Redis (установка, настройка и использование).</skills to be acquired>
+  <skills to be acquired>25. Нагрузочное тестирование в Jmeter.</skills to be acquired>
+  <skills to be acquired>26. Методология разработки Scrum.</skills to be acquired>
+  <skills to be acquired>27. Python. (Изучение основ. Создание клиент серверного приложения)</skills to be acquired>
+</root>

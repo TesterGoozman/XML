@@ -1,0 +1,53 @@
+<root>
+  <first_name>Viktor</first_name>
+  <last_name>Korochanskii</last_name>
+  <surname>Anatolievich</surname>
+  <Age>38</Age>
+  <hobbies in areas of life>
+    <Id>1</Id>
+    <areas of life>health</areas of life>
+    <hobby in doors>Gym</hobby in doors>
+    <hobby in doors>Fitness</hobby in doors>
+    <hobby in doors>Swimming</hobby in doors>
+  </hobbies in areas of life>
+  <hobbies in areas of life>
+    <Id>2</Id>
+    <outdoor hobbies>cycling</outdoor hobbies>
+    <outdoor hobbies>running in the forest</outdoor hobbies>
+  </hobbies in areas of life>
+  <hobbies in areas of life>
+    <Id>2</Id>
+    <areas of life>adication</areas of life>
+  </hobbies in areas of life>
+  <hobbies in areas of life>
+    <Id>1</Id>
+    <books>Lie to me</books>
+    <books>Python 1 edition</books>
+    <books>Idiot</books>
+  </hobbies in areas of life>
+  <hobbies in areas of life>
+    <Id>2</Id>
+    <Video lectures>QA engineer Vadim KZ</Video lectures>
+    <Video lectures>QA engineer Artseom RS</Video lectures>
+  </hobbies in areas of life>
+  <hobbies in areas of life>
+    <Id>3</Id>
+    <courses>GitHub for beginners</courses>
+    <courses>Postman AQA easy way to</courses>
+  </hobbies in areas of life>
+  <hobbies in areas of life>
+    <Id>3</Id>
+    <areas of life>rest</areas of life>
+  </hobbies in areas of life>
+  <hobbies in areas of life>
+    <Id>1</Id>
+    <rest whis famaly>play with kids</rest whis famaly>
+    <rest whis famaly>go to a restaraunt this my wife</rest whis famaly>
+    <rest whis famaly>go to a cinema</rest whis famaly>
+  </hobbies in areas of life>
+  <hobbies in areas of life>
+    <Id>2</Id>
+    <rest alone>I dont have any time to rest, i need hard to work</rest alone>
+    <rest alone>get the right job, but sometimes i play CS:GO</rest alone>
+  </hobbies in areas of life>
+</root>
